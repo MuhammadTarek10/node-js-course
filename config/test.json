@@ -1,0 +1,5 @@
+
+{
+    "jwtPrivateKey": "123",
+    "db": "mongodb+srv://mongo:mongo@test-cluster.j08xo.mongodb.net/playground_test"
+}
